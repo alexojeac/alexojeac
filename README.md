@@ -10,4 +10,4 @@
 - 🎯 Siempre busco aportar un valor agregado en cada proyecto en el que trabajo. Mi aspiración es seguir aprendiendo y formarme en distintas tecnologías como Desarrollador.
 
 ## Encuéntrame en:
-[![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)
+[![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)  [![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/instagram32.png)](https://www.instagram.com/alexojea_/)
