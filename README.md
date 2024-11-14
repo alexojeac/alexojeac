@@ -12,9 +12,6 @@
 [![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)  [![Instagram](https://raw.githubusercontent.com/alexojeac/alexojeac/master/instagram32.png)](https://www.instagram.com/alexojea_/)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-### ⚙️ &nbsp;GitHub Analytics
-
 <table>
   <tr>
     <td>
