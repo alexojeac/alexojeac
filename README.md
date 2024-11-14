@@ -12,10 +12,18 @@
 [![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)  [![Instagram](https://raw.githubusercontent.com/alexojeac/alexojeac/master/instagram32.png)](https://www.instagram.com/alexojea_/)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p>
-  <a href="https://github.com/alexojeac">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexojeac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexojeac&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/alexojeac">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexojeac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alexojeac">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexojeac&layout=compact&langs_count=8&theme=algolia"/>
+      </a>
+    </td>
+  </tr>
+</table>
