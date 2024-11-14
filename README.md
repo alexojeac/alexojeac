@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center"> Hola, soy Alex! 👋</h1>
 </div>
+
 ![https://alexojeac.com](https://raw.githubusercontent.com/alexojeac/alexojeac/master/banner_dev.png)
 
 ## Sobre mi
