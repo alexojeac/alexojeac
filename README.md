@@ -13,6 +13,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <table>
   <tr>
     <td>
