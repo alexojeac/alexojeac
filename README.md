@@ -1,10 +1,8 @@
-## Hola, soy Alex! 👋
+<div align="center">
+  <h1 align="center"> Hola, soy Alex! 👋</h1>h1>
+</div>
 
 ![https://alexojeac.com](https://raw.githubusercontent.com/alexojeac/alexojeac/master/banner_dev.png)
-<!--
-**alexojeac/alexojeac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
