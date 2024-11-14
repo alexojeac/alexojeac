@@ -10,4 +10,4 @@
 - 🎯 Siempre busco aportar un valor agregado en cada proyecto en el que trabajo. Mi aspiración es seguir aprendiendo y formarme en distintas tecnologías como Desarrollador.
 
 ## Encuéntrame en:
-[![LinkedIn]https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por Md Tanvirul Haque - Flaticon)](https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/alexojea/)
+[![LinkedIn](https://www.flaticon.es/iconos-gratis/linkedin)](https://www.linkedin.com/in/alexojea/)
