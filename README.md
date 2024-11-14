@@ -1,6 +1,6 @@
 ## Hola, soy Alex! 👋
 
-![https://github.com/alexojeac](./alexojeac_github_banner_dev.png)
+![https://alexojeac.com](https://raw.githubusercontent.com/alexojeac/alexojeac/master/banner_dev.png)
 <!--
 **alexojeac/alexojeac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
