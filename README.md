@@ -10,4 +10,4 @@
 - 🎯 Siempre busco aportar un valor agregado en cada proyecto en el que trabajo. Mi aspiración es seguir aprendiendo y formarme en distintas tecnologías como Desarrollador.
 
 ## Encuéntrame en:
-[![LinkedIn]([https://www.flaticon.es/iconos-gratis/linkedin](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin.png))](https://www.linkedin.com/in/alexojea/)
+[![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/banner_dev.png)](https://www.linkedin.com/in/alexojea/)
