@@ -5,8 +5,9 @@
 ![https://alexojeac.com](https://raw.githubusercontent.com/alexojeac/alexojeac/master/banner_dev.png)
 
 ## Sobre mi
-- 🧑🏻‍💻 Desarrollador de software Junior Full Stack
-- 🎯 Siempre busco aportar un valor agregado en cada proyecto en el que trabajo. Mi aspiración es seguir aprendiendo y formarme en distintas tecnologías como Desarrollador.
+Soy desarrollador de software, con títulos de Desarrollo de aplicaciones multiplataforma y Sistemas Informáticos y Redes.
+He trabajado como técnico informático en una empresa del sector y actualmente como desarrollador de software en una empresa, que a su vez está contratada por la Xunta de Galicia, a la que pertenece el proyecto en el que trabajo ahora mismo.
+Mi objetivo es seguir creciendo como profesional aprendiendo nuevas tecnologías relacionadas con el sector y poniendo en práctica mis conocimientos en mis trabajos, y en proyectos personales que se verán reflejados en esta plataforma.
 
 ## Encuéntrame en:
 [![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)  [![Instagram](https://raw.githubusercontent.com/alexojeac/alexojeac/master/instagram32.png)](https://www.instagram.com/alexojea_/)
