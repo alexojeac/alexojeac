@@ -22,7 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,kotlin,html,css,js,ts,react,nodejs,mysql,postgres,git,github,linux" />
 
-<img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="80" alt="JUnit5 logo"/>
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" alt="JUnit5 logo"/>
 
 ---
 
