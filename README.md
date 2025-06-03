@@ -7,7 +7,8 @@
 💻 Desarrollador full-stack apasionado por el código limpio, las soluciones eficientes y el café ☕
 
 ## 🧰 Tecnologías y herramientas
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,kotlin,mysql,git,github,linux" />![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,kotlin,mysql,git,github,linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/JUnit_5_Banner.svg/320px-JUnit_5_Banner.svg.png" width="80"/>
+
 
 ## 📫 Cómo contactarme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexojea/)
