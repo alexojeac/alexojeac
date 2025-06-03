@@ -11,10 +11,9 @@
 
 
 ## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexojea/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexojea/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexojeaaoc2@gmail.com.com)
 
-![GitHub Snake](https://github.com/alexojeac/alexojeac/blob/output/github-contribution-grid-snake.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <table>
