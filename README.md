@@ -12,7 +12,10 @@ Mi objetivo es seguir creciendo como profesional aprendiendo nuevas tecnologías
 ## Encuéntrame en:
 [![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)  [![Instagram](https://raw.githubusercontent.com/alexojeac/alexojeac/master/instagram32.png)](https://www.instagram.com/alexojea_/)
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-ojea&show_icons=true&theme=default&hide_title=true)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexojeac&show_icons=true&theme=default&hide_title=true)
+
+## 🧰 Tecnologías y herramientas
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,python,git,github,linux" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 <table>
