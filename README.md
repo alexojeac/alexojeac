@@ -7,7 +7,7 @@
 💻 Desarrollador full-stack apasionado por el código limpio, las soluciones eficientes y el café ☕
 
 ## 🧰 Tecnologías y herramientas
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,kotlin,mysql,git,github,linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/JUnit_5_Banner.svg/320px-JUnit_5_Banner.svg.png" width="80"/>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,kotlin,mysql,git,github,linux" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/JUnit_5_Banner.svg/320px-JUnit_5_Banner.svg.png](https://junit.org/junit5/assets/img/junit5-logo.png)" width="80"/>
 
 
 ## 📫 Cómo contactarme
