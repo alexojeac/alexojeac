@@ -7,7 +7,7 @@
 💻 Desarrollador full-stack apasionado por el código limpio, las soluciones eficientes y el café ☕
 
 ## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)][(https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alexojea/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexojea/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexojeaaoc2@gmail.com.com)
 
 ## 🧰 Tecnologías y herramientas
