@@ -4,17 +4,14 @@
 
 ![https://alexojeac.com](https://raw.githubusercontent.com/alexojeac/alexojeac/master/banner_dev.png)
 
-## Sobre mi
-Soy desarrollador de software, con títulos de Desarrollo de aplicaciones multiplataforma y Sistemas Informáticos y Redes.
-He trabajado como técnico informático en una empresa del sector y actualmente como desarrollador de software en una empresa, que a su vez está contratada por la Xunta de Galicia, a la que pertenece el proyecto en el que trabajo ahora mismo.
-Mi objetivo es seguir creciendo como profesional aprendiendo nuevas tecnologías relacionadas con el sector y poniendo en práctica mis conocimientos en mis trabajos, y en proyectos personales que se verán reflejados en esta plataforma.
+💻 Desarrollador full-stack apasionado por el código limpio, las soluciones eficientes y el café ☕
 
-## Encuéntrame en:
-[![LinkedIn](https://raw.githubusercontent.com/alexojeac/alexojeac/master/linkedin32.png)](https://www.linkedin.com/in/alexojea/)  [![Instagram](https://raw.githubusercontent.com/alexojeac/alexojeac/master/instagram32.png)](https://www.instagram.com/alexojea_/)
-
+## 📫 Cómo contactarme
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)][(https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alexojea/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexojeaaoc2@gmail.com.com)
 
 ## 🧰 Tecnologías y herramientas
-<img src="https://skillicons.dev/icons?i=java,spring,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,kotlin,mysql,git,github,linux" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 <table>
