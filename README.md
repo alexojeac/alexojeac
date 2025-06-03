@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexojea/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexojeaaoc2@gmail.com.com)
 
-![snake gif](https://github.com/alejandro-ojea/alejandro-ojea/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/alexojeac/alexojeac/blob/output/github-contribution-grid-snake.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <table>
